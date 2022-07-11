@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = matheus@zambonecomercial.com
+	name = Matheus Zambone
